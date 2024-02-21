@@ -1,0 +1,11 @@
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\bin\Debug\net6.0\SchoolData.deps.json
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\bin\Debug\net6.0\SchoolData.dll
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\bin\Debug\net6.0\SchoolData.pdb
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\SchoolData.GeneratedMSBuildEditorConfig.editorconfig
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\SchoolData.AssemblyInfoInputs.cache
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\SchoolData.AssemblyInfo.cs
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\SchoolData.csproj.CoreCompileInputs.cache
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\SchoolData.dll
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\refint\SchoolData.dll
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\SchoolData.pdb
+C:\MPHASIS\feb21-24\SchoolData\SchoolData\obj\Debug\net6.0\ref\SchoolData.dll
